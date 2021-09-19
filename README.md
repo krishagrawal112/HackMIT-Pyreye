@@ -9,3 +9,9 @@ Team members include: Maxim Van Duyne, Nithiin Kathiresan, Krish Agrawal and Ana
 
 
 Part of the main Front-end Repo is available here: https://github.com/nithiink/forestfire_frontend
+
+API Link: https://api.weather.com/v3/wx/observations/current?geocode=40.58,-111.66&units=e&language=en-US&format=json&apiKey=
+
+    API Key: 1bbf9714b9ac4babbf9714b9acebabca
+    AEU, BDU, BTU, BEU
+    Above uses Lat/Long coordinates
